@@ -1,3 +1,3 @@
 # RepoLopez
-Prova repositori de Entornos de Desarrollo
-Creador Hector Lopez Terrades
+Exercici per a GitHub, per parelles.
+Autor: Hector Lopez Terrades
